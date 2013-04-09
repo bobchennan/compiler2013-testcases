@@ -19,7 +19,7 @@ Both kinds of programs will be tested and judged according to the behavior of gc
 
 Name your testcases as "`StudentNumber-StudentName-TestcaseName.c`"
 (e.g. "`5090379042-jiaxiao-hello.c`"; without the quotes).
-The `TestcaseName` is required to be matched by the regex `/[a-z0-9]/`.
+The `TestcaseName` is required to be matched by the regex `/[a-z0-9]+/`.
 
 You can get a bonus of 2 points per 10 merged testcases.
 If less than 10 (but > 0) of your testcases are merged, you get a bonus of 1 point.
