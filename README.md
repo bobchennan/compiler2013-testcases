@@ -17,6 +17,10 @@ You can submit either good programs which are syntactically and semantically cor
 or bad programs with syntax or semantic errors. 
 Both kinds of programs will be tested and judged according to the behavior of gcc.
 
+For syntactically correct programs, please try your best to write it beautifully.
+If you're not confident about your coding style, use a tool such as [astyle](http://astyle.sourceforge.net/).
+However, you are allowed and encouraged to submit ugly testcases just for challenging buggy parsers.
+
 Name your testcases as "`StudentNumber-StudentName-TestcaseName.c`"
 (e.g. "`5090379042-jiaxiao-hello.c`"; without the quotes).
 The `TestcaseName` is required to be matched by the regex `/[a-z0-9]+/`.
