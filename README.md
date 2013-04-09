@@ -25,7 +25,6 @@ Name your testcases as "`StudentNumber-StudentName-TestcaseName.c`"
 (e.g. "`5090379042-jiaxiao-hello.c`"; without the quotes).
 The `TestcaseName` is required to be matched by the regex `/[a-z0-9]+/`.
 
-You can get a bonus of 2 points per 10 merged testcases.
-If less than 10 (but > 0) of your testcases are merged, you get a bonus of 1 point.
+You can get a bonus of 0.2 points per merged testcase.
 If you can't manage to submit your testcases via GitHub, find a friend for help as soon as possible.
 But please try not to ask your teaching assistants for this.
