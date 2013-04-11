@@ -23,7 +23,7 @@ However, you are allowed and encouraged to submit ugly testcases just for challe
 
 Name your testcases as "`StudentNumber-StudentName-TestcaseName.c`"
 (e.g. "`5090379042-jiaxiao-hello.c`"; without the quotes).
-The `TestcaseName` is required to be matched by the regex `/[a-z0-9]+/`.
+The `TestcaseName` is required to be matched by the regex `/[_a-z0-9]+/`.
 
 You can get a bonus of 0.2 points per merged testcase.
 If you can't manage to submit your testcases via GitHub, find a friend for help as soon as possible.
